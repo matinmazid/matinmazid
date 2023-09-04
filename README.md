@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matinmazid
 - 👀 I’m interested in distributed computing, performance and protocols.
-- 🌱 I’m currently learning go
+- 🌱 I’m 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
